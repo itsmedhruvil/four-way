@@ -1,0 +1,449 @@
+{
+  "settings": {
+    "brand": {
+      "name": "4Way Safety Solutions LLP",
+      "logo": "https://lh3.googleusercontent.com/aida/AEtjO1V-LR1B23t56AUAHfK_n64ox3CO6NbhQQ6KXu6BrPttsQVszmWxP9m1AH5GiS6Aoih6pMP_lkOU8R9jQp7Fl-c8RyDAjIxjjGv3Z5crNM8Jlr1fascmexWoNUUSs2TdGXJtsLREfFlDy6g02FVeJrtZpGl0b88lcXhvsYIE0GjXJDrwyg1-8jpZXwGBl4icucehTI4YPx4EHtbQ6QFFYjbKSyXpeI25W5e8Jdt_k-p_P1ug5WGVkz21DfjR",
+      "logoAlt": "4Way Safety Solutions LLP"
+    },
+    "navigation": [
+      { "label": "HOME", "href": "#home" },
+      { "label": "ABOUT", "href": "#about" },
+      { "label": "SERVICES", "href": "#services" },
+      { "label": "SECTORS", "href": "#sectors" },
+      { "label": "PROCESS", "href": "#process" },
+      { "label": "PROJECTS", "href": "#projects" },
+      { "label": "CONTACT", "href": "#contact" }
+    ],
+    "header": {
+      "phoneDisplay": "+91 95866 50088",
+      "phoneHref": "tel:+919586650088",
+      "ctaLabel": "Get a Free Quote",
+      "ctaHref": "#contact"
+    },
+    "hero": {
+      "kicker": "FIRE SAFETY & PROTECTION EXPERTS",
+      "titleStart": "Professional Fire Safety for a",
+      "titleHighlight": "Safer",
+      "titleEnd": "Facility",
+      "description": "Turnkey fire protection consultancy, CAD hydraulic engineering, certified system supply, installation, testing, and periodic compliance across Gujarat and Western India.",
+      "primaryCtaLabel": "Get a Free Quote",
+      "primaryCtaHref": "#contact",
+      "secondaryCtaLabel": "Explore Our Services",
+      "secondaryCtaHref": "#services",
+      "backgroundImage": "https://lh3.googleusercontent.com/aida-public/AB6AXuBsZrIfXA_209bfBXl6W5IOUkOd6GVIhgOrdGXPWa8temOn4seKRZtYZ0GW9AmHTzwDxPNjcZg0kDLqX2wgvSkm8QXHmAXXcOKbKzP02hbsEBMu3vLVVeQCbimAyVd5xzhh6yPKyb4UzKYY-UjJwOJz7bFLiQ8dYAMr4__kDrIbdkUm4MNEMNCUyzpag0QcfDQWgYVLrVI3Qqf-rPDFb9sCe9b_FC98d5e4YxNYOgfTTlMe7p9XJsKziQ",
+      "backgroundAlt": "Industrial Engineering Fire Safety Background",
+      "mediaImage": "https://lh3.googleusercontent.com/aida-public/AB6AXuAflIe_bnUIhMez62KAlz55okpj9ceSag-6G3QVnzec0ii8_aqV75J2_0enwVqzRy95kLhGbCg2Z9PrCk7mC0Pd9VpGwLKgq5zplXqkVW3_jJUYpIR2qBXPkeaZo08tdrt1URu3Aw9JzVYlP6xNQbOuABXqxGDSJe6WWyhQ6WrEs2blmj-B062GCINs0EJAOG8gDlkFYwmPHjWl2BAUv0sO7aYORnk3OM0-Upy3xEjd63VBDUnr3bpEqg",
+      "mediaAlt": "Fire Protection Engineers Inspecting Pump Room",
+      "mediaLink": "#about",
+      "badgeTitle": "Turnkey Fire Engineering",
+      "badgeMeta": "NBC 2016 • BIS"
+    },
+    "about": {
+      "kicker": "WHO WE ARE",
+      "years": "28",
+      "yearsLabel": "Years Experience",
+      "yearsNote": "Legacy foundation from PK Consultancy fire engineering expertise.",
+      "titleStart": "Expert Protection for the",
+      "titleHighlight": "Heart",
+      "titleEnd": "of Your Facility",
+      "lead": "At 4Way Safety Solutions LLP, we understand that human lives and industrial operations are paramount.",
+      "body": "Born out of the decades-long excellence of PK Consultancy, 4Way Safety Solutions provides turnkey fire detection, suppression, hydrant infrastructure, and government Fire NOC liaison. Whether safeguarding hazardous chemical plants in Vapi, pharmaceutical cleanrooms, or high-rise commercial corporate towers, we engineer total safety from initial hydraulic blueprint to final operational handover.",
+      "ctaLabel": "Learn About Us",
+      "ctaHref": "#services"
+    },
+    "servicesSection": {
+      "kicker": "WHAT WE DO",
+      "titleStart": "Complete",
+      "titleHighlight": "Fire & Protection",
+      "titleEnd": "Care",
+      "description": "From routine regulatory audits to essential turnkey installations, 4Way Safety Solutions provides professional certified engineering services designed to keep your facility safe, compliant, and operational."
+    },
+    "reasonsSection": {
+      "kicker": "WHY CHOOSE US",
+      "titleStart": "Professional Fire Safety You Can",
+      "titleHighlight": "Feel Secure",
+      "titleEnd": "About",
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuCuawZBuNMIP97lKtvSwOCz6beKf0eicxRpsYjjfmTeyeXNplto603Gvai4qx4bOaHfWo_vQT7z_eW9kV0AW5hoOn8oFxtrcAjdXMRk6GTmO7RqgbuL3ZIF595lX71qfnyTs3L0pSk-umlc_cmOgGW4wWMJvXLYbFKq0P7arocvf3yn2z2xgVnwbfxqu2bCpj9KLhc5wGE3pLSN6KY7pVgyfzgFcYbB6GsFinNkQ-zjZGfw0k7ni9UD0w",
+      "imageAlt": "Industrial Fire Safety Setup",
+      "imageBadge": "4Way Precision",
+      "imageCaption": "Zero Compromise Engineering"
+    },
+    "processSection": {
+      "kicker": "HOW IT WORKS",
+      "titleStart": "Simple Service. Clear Process.",
+      "titleHighlight": "Peace of Mind.",
+      "description": "Getting your facility certified and protected doesn't have to be complicated. Our structured 4-step workflow makes it seamless from survey to final inspection."
+    },
+    "projectsSection": {
+      "kicker": "OUR RECENT WORK",
+      "titleStart": "Engineering Rigor You Can",
+      "titleHighlight": "See",
+      "titleEnd": ""
+    },
+    "testimonialsSection": {
+      "kicker": "WHAT FACILITY DIRECTORS SAY",
+      "titleStart": "Trusted by Facility Heads,",
+      "titleHighlight": "Season",
+      "titleEnd": "after Season",
+      "description": "Great fire safety service should provide more than paperwork—it should bring complete, unwavering confidence to your boardroom.",
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuCLhH0yltl7PUry58qfss0-fO7C7sRSqTNQZziv5bsOh8cLspxwBOl5LFSriydk7TAR1V0DtdhIXtH83cU1VXkwRxtNNmkWsNpoEFI0CFzG3squw8ybH4Fqn7lbaGfAAqP-26lBNwDzX6AbPIgVClf6-EMnfAMXLMM1Ti69zJqTIwm-4cOxdXrRbfiPAMbCCv9ghNP294pqt8V8DaxZNdKFAM-0FgkGxjXxPDxtiwFlAXPmJNo3us8O6Q",
+      "imageAlt": "Facility Safety Directors",
+      "trustTitle": "Trusted by 500+ Facilities",
+      "trustSubtitle": "Across Gujarat & Western India",
+      "avatars": [
+        "https://lh3.googleusercontent.com/aida-public/AB6AXuCKS-DXfz1Y3LzSGi7zaKOn2HUrGZvCa8hbQlnP0hnkorIbHV-cyEiMvA83ad2iHRQgrLORLdw8oIy8HBV5ZRpZwscJbmn6d6oFhznUC6hc4SInutoi3eDQznfSqhZDKKYK6n54eBOVL2PAAklsDPn4R6BIL0Us4z4WrHdRBiTJrSS84L2wFDay0cBIQs5-ecDG5joL01saVC9D2uPZMnLqzKRmtJ2zlXY1Ph8z7GvDx_o41DthaTUlGw",
+        "https://lh3.googleusercontent.com/aida-public/AB6AXuAAbi5z5aisOC7P8Cj2kLwpjXsc7SHnWA6_dRaXLXUYoLPLunWBd4XakU9QsVIiMfQwvk0wax3_JTqlY4BwGG9ZtHqbfY8z6Y7A3sgXhHc9dlx2VomX8NaOuwp-AEB1jRRvwTck8v8fHtnFrnPIA4b6GYSNh7Jm1SmlfNwIOHwEt7tzNobiY8ks6tvlQ1W9Es_ExWaFXZdsxKmedjpv3ps7XBpLsgxSposhicI-RXIVEOaeBg-M4wh3Pg",
+        "https://lh3.googleusercontent.com/aida-public/AB6AXuCuYIvaC2_NFiNAjNxvQUim6AitAiTr8UCjLB-UtDnT43kNzQ_C5-ecsVvAQ3xjiPZoICOq7g_T1RCAUxYF2QP1D_n3L0XPbu-U8Z5yEn-lgGc8YxYaMEiZUahMALQDy3Me37lM5FOYOL3Onn18yL_Waxw7ijBhO2uEj7k9gzlesGud5Ug9p6pp9YsWF3emIqAuwX1-iJzTLx0ANhnG9faFWGepWFkF7Hhb5SI7fK3wYxxdymxTKLFDrQ"
+      ]
+    },
+    "faqSection": {
+      "kicker": "FREQUENTLY ASKED QUESTIONS",
+      "titleStart": "Everything You Need to",
+      "titleHighlight": "Know",
+      "titleEnd": ""
+    },
+    "ctaSection": {
+      "kicker": "READY WHEN YOU ARE",
+      "titleStart": "Bring Total Safety to Your Facility.",
+      "titleHighlight": "Risk",
+      "titleEnd": "Behind.",
+      "description": "Keep your workforce, machinery, and statutory licenses fully protected and compliant. Let 4Way Safety Solutions provide the peace of mind your enterprise deserves.",
+      "primaryCtaLabel": "Get a Free Quote",
+      "primaryCtaHref": "#contact",
+      "secondaryCtaLabel": "Call Our Team",
+      "secondaryCtaHref": "tel:+919586650088",
+      "backgroundImage": "https://lh3.googleusercontent.com/aida-public/AB6AXuBchKdRSZDlGxLpHJuIgIQsR4xQeIAegvJC1HfbkDPhThG1rWvCzYMOM6NbQNal5Mybk0EnO_31HRhfb-31_18_yP1GTkdPQFz1ZMJRc7dSzS0tsU9ooenL0ChO77wIvjw9DEcjCjxzR0jzw71K8Eryl-3Vaxtx3EbBITrfxsmwedwJYQr8V6PcgrOEB6Mfbnyrwd-J0NlZ0BMAKl-tz48TShizmQr5WGZBYvpLEClKZ05AD65JyDWSDg",
+      "backgroundAlt": "Fire Safety Engineering Background"
+    },
+    "blogSection": {
+      "kicker": "FROM OUR BLOG",
+      "titleStart": "Tips, Guides &",
+      "titleHighlight": "Ideas",
+      "titleEnd": "",
+      "ctaLabel": "View All Articles",
+      "ctaHref": "#contact"
+    },
+    "newsletter": {
+      "title": "Stay in the Know",
+      "description": "Receive regular fire safety tips, statutory compliance updates, and helpful facility maintenance guides.",
+      "placeholder": "Your Email",
+      "buttonLabel": "Subscribe",
+      "successMessage": "Thank you for subscribing!"
+    },
+    "footer": {
+      "description": "Professional chimney, fire safety, and protection services engineered to keep your home, industrial plants, and facilities certified, compliant, and ready for every season.",
+      "address": "Head Office: Vapi • Daman Industrial Corridor\nBranches: Surat, Ahmedabad, Vadodara, Mumbai, Pune",
+      "email": "support@4waysafety.com",
+      "phoneDisplay": "+91 95866 50088 / +91 99040 94189",
+      "phoneHref": "tel:+919586650088",
+      "hours": "Monday – Saturday : 8:00 AM – 8:00 PM\nSunday : Emergency On-Call Only",
+      "copyright": "© 2024 • 4Way Safety Solutions LLP. All Rights Reserved.",
+      "socials": [
+        { "label": "Facebook", "icon": "fa-brands fa-facebook-f", "href": "#" },
+        { "label": "Instagram", "icon": "fa-brands fa-instagram", "href": "#" },
+        { "label": "LinkedIn", "icon": "fa-brands fa-linkedin-in", "href": "#" },
+        { "label": "YouTube", "icon": "fa-brands fa-youtube", "href": "#" }
+      ],
+      "columns": [
+        {
+          "title": "Company",
+          "links": [
+            { "label": "Home", "href": "#home" },
+            { "label": "About Us", "href": "#about" },
+            { "label": "Projects", "href": "#projects" },
+            { "label": "Team", "href": "#team" },
+            { "label": "Pricing & NOC", "href": "#pricing" },
+            { "label": "Contact", "href": "#contact" }
+          ]
+        },
+        {
+          "title": "Services",
+          "links": [
+            { "label": "Fire Hydrant Systems", "href": "#services" },
+            { "label": "Automatic Sprinklers", "href": "#services" },
+            { "label": "Smoke & Heat Alarms", "href": "#services" },
+            { "label": "Fire Extinguisher Refilling", "href": "#services" },
+            { "label": "Gas Suppression Systems", "href": "#services" },
+            { "label": "Annual Maintenance (AMC)", "href": "#services" }
+          ]
+        }
+      ],
+      "legalLinks": [
+        { "label": "Privacy Policy", "href": "#" },
+        { "label": "Terms & Conditions", "href": "#" },
+        { "label": "Sitemap", "href": "#" }
+      ]
+    },
+    "seo": {
+      "title": "4Way Safety Solutions LLP | Complete Fire Protection & Engineering Systems",
+      "description": "Turnkey fire protection consultancy, CAD hydraulic engineering, certified system supply, installation, testing, and periodic compliance across Gujarat and Western India."
+    }
+  },
+
+  "badges": [
+    {
+      "icon": "fa-solid fa-shield-halved",
+      "title": "Licensed & Certified",
+      "description": "Turnkey solutions backed by NBC 2016, BIS, and NFPA design frameworks."
+    },
+    {
+      "icon": "fa-solid fa-user-gear",
+      "title": "Certified Technicians",
+      "description": "Engineers specializing in CAD hydraulics and high-hazard setups."
+    },
+    {
+      "icon": "fa-solid fa-fire-extinguisher",
+      "title": "Safety First Focus",
+      "description": "Zero-compromise protocols guarding critical assets and manpower."
+    },
+    {
+      "icon": "fa-solid fa-handshake-angle",
+      "title": "Honest Advisory",
+      "description": "Clear recommendations and straightforward statutory NOC pricing."
+    }
+  ],
+  "services": [
+    {
+      "slug": "fire-hydrant-sprinkler-systems",
+      "title": "Fire Hydrant & Sprinkler Systems",
+      "description": "Turnkey ring mains, automatic wet-pipe sprinkler grids, jockey pumps, and high-pressure diesel booster stations.",
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuC7BkhBoOFTFjo4UgXLSAwb2ptTla-VtugcYMNJPfCGf-vP_6GV7GE_MqJcNoRDIF73D0hNuLqqey9gtUTz23B5zhkHLfI6uFBi5Ah65wV8UgNegiRq7ceizOdjEYDTaYKdOJb7E47RA-HKDhbtQKS7IaWwhiPxryG-XPTQif66sVA9mpwS3n3MjYsKC90sRTHS5j9FmypbBU6O5kqwmhQsGc9A9o1dNH7keE4ggsP0ryi9UKv6WL0f2A",
+      "imageAlt": "Fire Hydrant & Sprinkler Systems",
+      "href": "#contact"
+    },
+    {
+      "slug": "fire-alarm-intelligent-detection",
+      "title": "Fire Alarm & Intelligent Detection",
+      "description": "Addressable and conventional fire alarm panels, optical smoke sensors, multi-spectrum flame detectors, and sounders.",
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuDLiMhe6snUGZ0l-IeZbdLWwevtY_g4LZaF_GT61MrDb-7dyXF8doSJWVrMi-vySs8ZwnPozDCN-ycYVFxC8RCGu1FV-MKspamt6fcXcDsueLY4e2wid27EvIXn_rPw2_kjNrSUE8F0BQiUT8ZqRpjQM0ofGAKZB5PMU3vDmrYLhqXAZrICclRgAzQdPV2-V1ELj1yX-DY_B785e75rX7vHK_IUGPKQVDE_-dPUeZjsm_PVx9LG1jEfaQ",
+      "imageAlt": "Fire Alarm & Smoke Detection Systems",
+      "href": "#contact"
+    },
+    {
+      "slug": "extinguisher-supply-refilling",
+      "title": "Extinguisher Supply & Refilling",
+      "description": "Full portfolio of ABC Dry Powder, Clean Agent, CO2, and Foam extinguishers with certified hydro-testing.",
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuBtkBaY9rhLQuTEU_PL16Gbby9tWB7fsb2fNuQ3sexWck71ZxhfjqiWEG8BicfMH5p5NN44CO1Ut88Ebu8Ai6qt6yLt3X4Kgo-X772xxvJ-zlsC3MI4TWGnA6iz972SZ4enfOCQ6YaUvxeAUr_jd95z4vKIDPbrIsAtsOIZjDTOyZNtSDypdZ7qyh-tUJf420zNEVsDc2mbWNz8m7CC5-oJ4tEXIkxWCz5qftAeTq7WVfKjM-MpbIGNLQ",
+      "imageAlt": "Fire Extinguisher Supply and Hydro-Testing",
+      "href": "#contact"
+    },
+    {
+      "slug": "fire-safety-audit-noc-liaison",
+      "title": "Fire Safety Audit & NOC Liaison",
+      "description": "Comprehensive statutory gap analyses, hydraulic validation, Gujarat Fire Prevention compliance, and provisional/final NOC clearance.",
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuBuvuhSQTKojnZ93sdxSD4o_fsdzvoQa6uX0RTWNu3PScTEhQVL_kvRdoZ1v2P5gC4yMt7vNbYLsxwrxoLSWDVIcR12k24tXcVZadZo26wiEOMbpUxKBcEj-6XeK9xppQQNbisr_3GAHqA3IcDmV_sjNv85DFba29wwmoeLd8Wvmrf0UuHeEL7soZjbm7RgkHm6F7UqtZXfHT1MBUMnfLh1829JpNi5AG4waNczsJYPgKQH8yslkJjESw",
+      "imageAlt": "Fire Safety Audits and NOC Liaison",
+      "href": "#contact"
+    },
+    {
+      "slug": "gas-suppression-clean-agent",
+      "title": "Gas Suppression & Clean Agent",
+      "description": "Waterless automatic total-flooding systems engineered for data centers, MCC electrical rooms, and server farms.",
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuBZO4W22Nc6FZQbpGcK0vnfo3uuPr8lkVVupH_k0N4ifN7ow4CW_IXNA7mmZtZv1NXcVSf_PL6DiuZfCkc3CR9sLtlH1pa4FRiwpxCxAYf0yKqoTV9LJ4ocuCKBnAtprjLfeYZXJo708FaqKKitate9irE3EoELFaHv_NL27hIuAvTLRVic7I9OQJ_g2kZZbmB2YRUbIOLSxtbDA6p_XJUrjNyuVofBycmv4dohKmN5CA4trZ9QA1RoQQ",
+      "imageAlt": "Gas Suppression and Server Room Protection",
+      "href": "#contact"
+    },
+    {
+      "slug": "annual-maintenance-contracts",
+      "title": "Annual Maintenance Contracts (AMC)",
+      "description": "Preventative quarterly testing, pump auto-start routines, emergency breakdown attendance, and Form-B certification.",
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuBF2wSGpW7OlquiSYp9Lc4kspzniPqz5eEt_Gy5lQ1wBJnhzy6265kapUthcci_hZdAWYlt7CYoJ79WAf8ShIbZV2rkful4vNP71QEhNodHMtKSTE1MeK9fixIg0NnKM0DaQARePC92ZkQZTegO5PVic9doyzJeSXO7Md6eBOQCBYMcqBPHZrANMCRKSmYlU3bdkX3xYmAon-_HeuGrqHVIr01pl9mK9vyau3ugr0V4RpLVhA-r1scKTA",
+      "imageAlt": "Annual Maintenance Contracts AMC",
+      "href": "#contact"
+    }
+  ],
+
+  "reasons": [
+    {
+      "icon": "fa-solid fa-user-tie",
+      "title": "Experienced Engineers",
+      "description": "Decades of on-ground engineering experience across high-risk industrial units.",
+      "column": "left"
+    },
+    {
+      "icon": "fa-solid fa-clipboard-check",
+      "title": "Safety & Compliance First",
+      "description": "Strict adherence to NBC 2016, BIS guidelines, and factory inspectorate norms.",
+      "column": "left"
+    },
+    {
+      "icon": "fa-solid fa-award",
+      "title": "Statutory NOC Assurance",
+      "description": "End-to-end guidance from plan submission to final fire authority signoff.",
+      "column": "left"
+    },
+    {
+      "icon": "fa-solid fa-truck-fast",
+      "title": "24/7 Rapid Response",
+      "description": "Dedicated regional technicians stationed across Daman, Vapi, Surat, and Ahmedabad.",
+      "column": "right"
+    },
+    {
+      "icon": "fa-solid fa-screwdriver-wrench",
+      "title": "Turnkey Workmanship",
+      "description": "From pipe fabrication to high-pressure manifold hydro-testing under one roof.",
+      "column": "right"
+    },
+    {
+      "icon": "fa-solid fa-leaf",
+      "title": "Complete Lifetime Care",
+      "description": "Scheduled preventative AMC, equipment refilling, and employee drill simulations.",
+      "column": "right"
+    }
+  ],
+  "steps": [
+    {
+      "number": "01",
+      "icon": "fa-solid fa-clipboard-list",
+      "title": "Site Survey & Audit",
+      "description": "Our safety engineers thoroughly evaluate your facility, assess fire load, and detect compliance gaps."
+    },
+    {
+      "number": "02",
+      "icon": "fa-solid fa-compass-drafting",
+      "title": "CAD Hydraulic Design",
+      "description": "We prepare detailed layout drawings, calculate pump capacities, and draft statutory approval files."
+    },
+    {
+      "number": "03",
+      "icon": "fa-solid fa-wrench",
+      "title": "Supply & Commissioning",
+      "description": "Installation of BIS-certified equipment, pressure testing, hydrostatic validation, and sounder testing."
+    },
+    {
+      "number": "04",
+      "icon": "fa-solid fa-certificate",
+      "title": "NOC Handover & AMC",
+      "description": "Final Fire Department approval, personnel training drills, and transition into lifetime AMC protection."
+    }
+  ],
+
+  "projects": [
+    {
+      "category": "Industrial • Gujarat GIDC",
+      "title": "Heavy Chemical Processing Hydrant Grid",
+      "description": "Complete turnkey installation of 250mm header ring main, dual diesel fire pumps, foam monitors, and emergency shutdown interlocks.",
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuA87mdBbE25slyzsrusMqPncTwUAzVJd--gjx9w-sU-DgpoCfl0s9gFjjL9nd9ngwTPu1SW5zxxGsVItZywcswTKKn6r8r-MtiPZ0DD0sIbWKzdxEld-MtBAu3y7RIhWF4jncRKfksRsD227pE76-mZUBUqdb8zuyjJSINH5UeBhpO-SaCXy867MwwQ9gOnaNPjbARRS3SAHws_5KDmlUUUgLwqFWOiOW3l5l8QwicZZ4QLdXJw5F7rLQ",
+      "imageAlt": "Chemical Manufacturing Facility Gujarat GIDC",
+      "href": "#contact"
+    },
+    {
+      "category": "Healthcare • Surat",
+      "title": "400-Bed Tertiary Care Hospital Smoke & Alarm Grid",
+      "description": "Multi-loop addressable smoke sensors with voice evacuation integration, stairwell pressurization fans, and clean agent ICU protection.",
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuCoSISVIpakC7npc9NWcnem3sbGoDten19EYdg8LjK_clupXLULxsuQwwCMv9Z9HBICw5xNKvBjU4jz6GYAA3dx8Z2kOYBfDwsaQzD1V4DEUgklPBIvE14z8wUfiI1bGYYWJp8c24Ib_3SN_bFLQxKZl5Ak_tLud4380wosxZnHO4yR8oByNl5oKfnMinQ4VhNCluAw6X9Ov_g8OTUStyhHU-FWye5Tp2NHyQxHK8V9AVNK6ZG_23XolA",
+      "imageAlt": "Multi-Specialty Hospital Fire Safety Setup",
+      "href": "#contact"
+    },
+    {
+      "category": "Commercial • Ahmedabad",
+      "title": "High-Rise Commercial Complex Sprinkler Reticulation",
+      "description": "Zoned flow-switch monitored quick-response concealed sprinkler system designed to aesthetic interior standards across 14 commercial floors.",
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuClm-KEhBIeBy6MvXU4nOI9eKMrWCYFvqDOmyaXma9ImpcKwWkCpEG6-qi88MnyYxFJdvWYWNixYBnPP5Cws6j8GjxDOk0exY_y7xw7KZzIOdxIzWqromECQODfzDQjVfrMd-cGNvTE71Ap-Gb1vPYqle8lOS45r_wqu1ArQq88v5XXOQ7QvvM1SKVr1oZeJ61VfGleTXMcnp7_cl123TOv01fsHWUDsHt3CkZqGvvIvHoXtp-MCD0VPw",
+      "imageAlt": "Corporate Tech Park Ahmedabad",
+      "href": "#contact"
+    },
+    {
+      "category": "Logistics Hub • Mumbai / Bhiwandi",
+      "title": "ESFR High-Bay Warehouse Suppression Architecture",
+      "description": "Early Suppression Fast Response ceiling-only sprinkler solution ensuring maximum rack storage heights without in-rack piping complications.",
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuBeq-Zg8rIyu_P0jAZOd1tWB4ZDMNgQWdKjfJR_EHAmLhPW-fGc1Ci_BdxB4WCWkkXogSHJ5pkukRVzyQWn6nSUFjk_XQnUlf4eJXpmg4ePVoKqj6zduTF3eMUTVsWNDYR5shfSWaGA8iduUAM_fW_45ZstkgJgEctX735dXLLza7F2tzJA3732Kxf0A1eBDZH0uuryLXEwUYn_qGal0vdMOfe0nfC1XLhOjnwO5rga_-b99Mm212hMxg",
+      "imageAlt": "E-Commerce Fulfillment Center Logistics Hub",
+      "href": "#contact"
+    }
+  ],
+
+  "testimonials": [
+    {
+      "quote": "4Way Safety audited our chemical processing facility in Vapi GIDC. Their team solved complicated hydraulic flow bottlenecks and secured our renewed Fire NOC seamlessly.",
+      "name": "Rajesh Parekh",
+      "role": "Plant Head, Aarti Speciality Chem",
+      "rating": 5,
+      "avatar": "https://lh3.googleusercontent.com/aida-public/AB6AXuDemqiQ6iHvzzmyV2lVrl_FNAz_lHNgSEzpCEIklbRnRgmmyRjEtiC4rOh5pn3w4y5DatXsAEecF_-DNTYL17eo6MhHb8hQ5MiMMZvaBn1IRv4FHy0H-hF_r7BrhYFseZ0YxpwA_x2JBRnu9ns1MqahjH7nI-nvLVDL_NQFjE1YT3FLvUFT6M1uJaM_eSBEr5xUkfEsOL8IUtW_7CuB-3xNxONzP9YCBWIWOcSM7pMca8f1lBi-kcv3JQ"
+    },
+    {
+      "quote": "Their preventive AMC is exceptional. The technicians test every diesel pump weekly, conduct live drills for our staff, and keep detailed digital compliance logs.",
+      "name": "Smita Desai",
+      "role": "Operations Director, Surat Tech Park",
+      "rating": 5,
+      "avatar": "https://lh3.googleusercontent.com/aida-public/AB6AXuC19jH0rGiNOXp25-snOoJ_1kgKre-YUU8uEbGKVYF1AZRhK88iid4Y7fJIlgLJcmXsC0vTCa9PWUB3QdIMHebMtCaoipELs1X4gKjTWuPZIsJ6zeHGZTPMda0JGFw-gjRJme-p34QrV1xUI4XP3QgkgW-WFp5s3_8u1rujsuydyOpUp8s_P0RUmmX2mYB2aFxuAfo5lwIWhFnjLpPabJsZQB2T5SoUfbgPzgAlYWkoQEUtZ8g-Phqy9A"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How often should our Fire NOC be renewed?",
+      "answer": "In Gujarat and Maharashtra, Fire Safety Certificates / Form-B must be submitted every six months or annually depending on occupancy class and building height under National Building Code (NBC) 2016 regulations.",
+      "open": true
+    },
+    {
+      "question": "Do you supply BIS and NFPA certified equipment?",
+      "answer": "Yes. All hydrant valves, hoses, sprinkler heads, detectors, and extinguisher cylinders supplied by 4Way Safety Solutions carry genuine ISI marks and adhere strictly to IS/BIS & NFPA standards.",
+      "open": false
+    },
+    {
+      "question": "How do I know if my fire hydrant system needs repair?",
+      "answer": "Watch for pressure gauge drops, leaking hydrant valves, rusty discharge water, jockey pump short-cycling, or a diesel pump that fails its weekly auto-start test. Any of these symptoms warrants an immediate inspection by our engineers.",
+      "open": false
+    },
+    {
+      "question": "Can you conduct hydraulic calculations & CAD designs?",
+      "answer": "Yes. Our in-house design cell produces NBC/NFPA-compliant hydraulic calculations, pump and tank sizing, sprinkler demand curves, and stamped CAD layouts suitable for fire authority submissions.",
+      "open": false
+    },
+    {
+      "question": "How long does an initial Fire Safety Audit take?",
+      "answer": "A typical industrial or commercial facility audit takes 1–2 working days on site, followed by a detailed compliance report within 3–5 working days, depending on plant size and documentation availability.",
+      "open": false
+    },
+    {
+      "question": "Should I inspect my system before buying or leasing a plant?",
+      "answer": "Absolutely. A pre-purchase fire system due diligence audit identifies failed pumps, inadequate storage, expired cylinders, and NOC liabilities so these can be priced or remedied before handover.",
+      "open": false
+    },
+    {
+      "question": "What happens during a scheduled quarterly AMC inspection?",
+      "answer": "Our technicians test pumps in auto and manual modes, verify panel health and battery backup, flow-test hydrants and sprinklers, inspect extinguisher pressures, and record everything in your digital compliance log.",
+      "open": false
+    },
+    {
+      "question": "How do I schedule an emergency site service?",
+      "answer": "Call our 24/7 helpline at +91 95866 50088 or submit the quote form on this page. Emergency breakdown attendance is typically mobilised within 4–12 hours across Vapi, Daman, Surat, and Ahmedabad.",
+      "open": false
+    }
+  ],
+
+  "posts": [
+    {
+      "slug": "hydrant-main-flow-tested",
+      "category": "CHIMNEY / DUCT SAFETY",
+      "date": "August 15, 2024",
+      "title": "How Often Should Your Facility Hydrant Main Be Flow-Tested?",
+      "excerpt": "Regular maintenance keeps industrial suppression lines from clogging and ensures pressure gauges deliver required flow rates during an incident.",
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuCTJo-C3Eors6WLyBbSNTL_QfL1Wyl8B37AAGPxKaW2X9lylf48S6ocvMxYVOQOBU2AWDedRHRxza-htqDUKJl51EKC8XACrpX5IwIpycyPFFghsdqtCQmkOsKW50MYYC8ATCAAxeU58TPchRrYMnms7j79mwmhB-vE20lKjZ5LCdL3ea4rHazgf3dT1nXznEuPDipRMueskxfAToeyQogvlITFNP6mQLwr521gXx6_MfhMX7-uO6EMNg",
+      "imageAlt": "Fire Safety Maintenance in Factories",
+      "href": "#contact"
+    },
+    {
+      "slug": "fire-panel-warning-signs",
+      "category": "STANDARDS & AUDITS",
+      "date": "August 10, 2024",
+      "title": "7 Warning Signs Your Fire Panel Needs Immediate Professional Attention",
+      "excerpt": "From ground faults and battery warnings to dirty optical sensors, here is what safety officers must immediately log.",
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuB64GdMc00vgc0mMavXDbx-pv1VZ99shEknVY8zs2gLtQVya3PuycpqDbvTfrFNWRSMwZug8rLpf-qAeHThy-zdJOPH-L73yPpRawqbjgIR62VQHX4--NAMcYiLvJmJr19viuKAIVUWKcmgYl9VCDxruOruh1QJbT-ZCCxIk5J6g-1XenPmuUA4R_J1MjYQi1mH7ud2bnXiifrA2ep4QtGBczu7O-vRObnchuBOMf9e5DzKe6ChwlAYuA",
+      "imageAlt": "Smoke Detectors Warning Signs",
+      "href": "#contact"
+    },
+    {
+      "slug": "mcc-server-room-summer-prep",
+      "category": "SERVER ROOM CARE",
+      "date": "August 03, 2024",
+      "title": "How to Prepare Critical MCC & Server Rooms for Summer Peak Loads",
+      "excerpt": "Before heat waves increase electrical fires, simple testing of clean agent gas cylinders ensures your infrastructure stays safe.",
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuCajknrl7u-i8co7jm1NEm0tqOZbZztw3fKN_3BmEj6IP88g4oo3e6anuKM5CCDaGPDDRiTabDZu6qHSElwfn-2Y7zXDCTU2nMJDxKq76QP8GioRIxfJFggAkpJm_WcsYYMIKYN8Hjv8kmQ52F1rsutkiAvq-EzM8tnrba3v9J8X20fJLK8k0JiQsgZi2TuAGZlgDVWLcQAIzk0M7QyCbCXGRj75F7qnoLFs7TO-9Q6kdmRJ_6mR9j5Jw",
+      "imageAlt": "Electrical Server Room Fire Prevention",
+      "href": "#contact"
+    }
+  ]
+}
+
+
