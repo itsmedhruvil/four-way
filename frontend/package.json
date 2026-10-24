@@ -8,8 +8,9 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "test": "vitest run",
+    "test": "vitest run --exclude src/test/live-wordpress.test.jsx",
     "test:watch": "vitest",
+    "test:live": "LIVE_WP_URL=1 vitest run src/test/live-wordpress.test.jsx",
     "wp:defaults": "node ../scripts/export-wp-defaults.mjs"
   },
   "dependencies": {

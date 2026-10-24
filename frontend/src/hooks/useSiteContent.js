@@ -25,7 +25,9 @@ export function useSiteContent() {
         setStatus('ready')
       })
       .catch((err) => {
-        if (err?.name === 'AbortError') return
+        // The component unmounted: nothing to update.
+        if (controller.signal.aborted) return
+
         setContent(fallbackContent)
         setSource('fallback')
         setError(err?.message || 'Unable to reach WordPress')

@@ -1,5 +1,3 @@
-import fallbackContent from '../data/site-content.json'
-
 const isPlainObject = (value) =>
   value !== null && typeof value === 'object' && !Array.isArray(value)
 
@@ -28,7 +26,8 @@ export function deepMerge(base, override) {
  * A collection is only taken from WordPress when it actually has rows, which
  * keeps a freshly-installed (unseeded) WordPress from blanking the page.
  */
-export function mergeContent(defaults = fallbackContent, remote = null) {
+export function mergeContent(defaults, remote = null) {
+  if (!defaults) return remote || {}
   if (!remote || typeof remote !== 'object') return defaults
 
   const settings = deepMerge(defaults.settings, remote.settings || {})

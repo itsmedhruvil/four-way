@@ -1,0 +1,8 @@
+.sandbox/
+.git/
+node_modules/
+**/node_modules/
+frontend/dist/
+wordpress/wp-content/uploads/
+_.log
+.DS_Store

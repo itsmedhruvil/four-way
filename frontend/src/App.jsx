@@ -32,13 +32,13 @@ function useDocumentMeta(seo) {
 }
 
 export default function App() {
-  const { content, source, status } = useSiteContent()
+  const { content, source, status, error } = useSiteContent()
   const { settings } = content
   useDocumentMeta(settings.seo)
 
   return (
     <QuoteProvider settings={settings}>
-      <div data-content-source={source} data-content-status={status}>
+      <div data-content-source={source} data-content-status={status} data-content-error={error || ''}>
         <Header settings={settings} />
         <main>
           <Hero hero={settings.hero} />
