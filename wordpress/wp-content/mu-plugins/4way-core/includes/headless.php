@@ -160,6 +160,7 @@ function fourway_render_headless_settings() {
 			<tr>
 				<th scope="row">Front-end redirect</th>
 				<td>
+					<input name="fourway_headless_redirect" type="hidden" value="0" />
 					<label>
 						<input name="fourway_headless_redirect" type="checkbox" value="1" <?php checked( $redirect ); ?> />
 						Redirect all WordPress page views to the React app (recommended for headless).
