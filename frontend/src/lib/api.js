@@ -35,18 +35,16 @@ export const endpoints = {
   },
 }
 
-/** Kept for backwards compatibility with older imports. */
-export const WP_BASE = DEFAULT_WP_URL
-
 const REQUEST_TIMEOUT_MS = 8000
 
 async function request(url, { method = 'GET', body, signal } = {}) {
   const controller = new AbortController()
   const timeout = setTimeout(() => controller.abort(), REQUEST_TIMEOUT_MS)
+  const forwardAbort = () => controller.abort()
 
   if (signal) {
     if (signal.aborted) controller.abort()
-    else signal.addEventListener('abort', () => controller.abort(), { once: true })
+    else signal.addEventListener('abort', forwardAbort, { once: true })
   }
 
   try {
@@ -80,6 +78,7 @@ async function request(url, { method = 'GET', body, signal } = {}) {
     return await response.json()
   } finally {
     clearTimeout(timeout)
+    if (signal) signal.removeEventListener('abort', forwardAbort)
   }
 }
 
